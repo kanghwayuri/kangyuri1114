@@ -2,6 +2,8 @@
 
 > Android developer based in South Korea, interested in sound architecture and building apps that are easy to maintain.
 
+🔗 Portfolio: [Portfolio](https://kangyuri1114.notion.site/Android-Developer-3f1ec7c1a5ce807bb39fd713a13b7ff6)
+
 ## About Me
 
 - Android Developer based in South Korea
